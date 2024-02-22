@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Domestika ginger"
+		},
+		{
+			"path": "../ejercicio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto Modulo 1"
+	}
+}
